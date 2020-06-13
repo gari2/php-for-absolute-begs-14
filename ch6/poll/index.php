@@ -10,7 +10,7 @@ $pageData->content .= "<h1>Everything works so far!</h1>";
 
 $dbInfo = "mysql:host=localhost;dbname=playground";
 $dbUser = "root";
-$dbPassword = "";
+$dbPassword = "5656_Kakiben";
 
 try {
     //try to create a database connection with a PDO object
