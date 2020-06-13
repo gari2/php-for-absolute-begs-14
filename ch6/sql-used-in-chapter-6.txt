@@ -8,6 +8,8 @@ you can copy these statements one by one, and paste them into phpmyadmin
 CREATE DATABASE playground CHARSET utf8;
 
 
+Use playground;
+
 -- create a database table named poll
 CREATE TABLE poll (
     poll_id INT NOT NULL AUTO_INCREMENT,
